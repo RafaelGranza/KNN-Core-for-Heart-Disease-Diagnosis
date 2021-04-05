@@ -1,4 +1,4 @@
-# KNN Core for Heart Disease Analysis
+# KNN Core for Heart Disease Diagnosis
 
 ## Prerequisites:
 * g++
